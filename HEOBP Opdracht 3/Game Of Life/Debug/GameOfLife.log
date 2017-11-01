@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Grid.cpp
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 3\game of life\grid.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 3\game of life\grid.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 3\game of life\grid.cpp(50): warning C4018: '<': signed/unsigned mismatch
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 3\game of life\grid.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 3\game of life\grid.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 3\game of life\grid.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  GameOfLife.cpp
+  Cell.cpp
+  Behaviour.cpp
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 3\game of life\behaviour.cpp(72): warning C4018: '<=': signed/unsigned mismatch
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 3\game of life\behaviour.cpp(76): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  GameOfLife.vcxproj -> C:\Users\yassine\Desktop\Hku\Jaar 2\HEOBP\HEOBP Opdracht 3\Game Of Life\Debug\GameOfLife.exe
+  GameOfLife.vcxproj -> C:\Users\yassine\Desktop\Hku\Jaar 2\HEOBP\HEOBP Opdracht 3\Game Of Life\Debug\GameOfLife.pdb (Partial PDB)
