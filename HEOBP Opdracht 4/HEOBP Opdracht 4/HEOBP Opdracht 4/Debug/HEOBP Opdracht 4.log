@@ -1,0 +1,5 @@
+﻿  HEOBP Opdracht 4.cpp
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 4\heobp opdracht 4\heobp opdracht 4\heobp opdracht 4.cpp(149): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 4\heobp opdracht 4\heobp opdracht 4\heobp opdracht 4.cpp(149): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HEOBP Opdracht 4.vcxproj -> C:\Users\yassine\Desktop\Hku\Jaar 2\HEOBP\HEOBP Opdracht 4\HEOBP Opdracht 4\Debug\HEOBP Opdracht 4.exe
+  HEOBP Opdracht 4.vcxproj -> C:\Users\yassine\Desktop\Hku\Jaar 2\HEOBP\HEOBP Opdracht 4\HEOBP Opdracht 4\Debug\HEOBP Opdracht 4.pdb (Partial PDB)

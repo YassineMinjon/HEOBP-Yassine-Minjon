@@ -1,0 +1,11 @@
+﻿  Bankrekening.cpp
+Bankrekening.cpp(31): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\time.h(475): note: see declaration of 'ctime'
+Bankrekening.cpp(43): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\time.h(475): note: see declaration of 'ctime'
+  Generating code
+  6 of 159 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HEOBP Opdracht 5.vcxproj -> C:\Users\yassine\Desktop\Hku\Jaar 2\HEOBP\HEOBP Opdracht 5\HEOBP Opdracht 5\x64\Release\HEOBP Opdracht 5.exe
