@@ -1,0 +1,7 @@
+﻿  Student.cpp
+  Modules.cpp
+c:\users\yassine\desktop\hku\jaar 2\heobp\heobp opdracht 2\heobp opdracht 2\heobp opdracht 2\modules.cpp(25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  HEOBP Opdracht 2.cpp
+  Generating Code...
+  HEOBP Opdracht 2.vcxproj -> C:\Users\yassine\Desktop\Hku\Jaar 2\HEOBP\HEOBP Opdracht 2\Heobp Opdracht 2\x64\Debug\HEOBP Opdracht 2.exe
+  HEOBP Opdracht 2.vcxproj -> C:\Users\yassine\Desktop\Hku\Jaar 2\HEOBP\HEOBP Opdracht 2\Heobp Opdracht 2\x64\Debug\HEOBP Opdracht 2.pdb (Partial PDB)
